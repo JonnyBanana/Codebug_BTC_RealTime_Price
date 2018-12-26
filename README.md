@@ -9,7 +9,9 @@ to display the price of Bitcoins in real time on the codebug led display
 I created two simple Python scripts that use the Coindesk (v1) and Bitstamp (v2) APIs respectively
 Both require the tether_codebug firmware:https://github.com/codebugtools/codebug_tether
 , which you can find in the "firmware" folder.
-Guide to install the tethering firmware with Codebug: http://www.codebug.org.uk/learn/activity/66/tethering-codebug-with-python/
+Guide to install the tethering firmware with Codebug: 
+
+http://www.codebug.org.uk/learn/activity/66/tethering-codebug-with-python/
 
 Guide Codebug Tether: 
 
