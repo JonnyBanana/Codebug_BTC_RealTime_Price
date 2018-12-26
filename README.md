@@ -5,3 +5,5 @@ A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/cb.jpg) 
 
+I created two simple Python scripts that use the Coindesk (v1) and Bitstamp (v2) APIs respectively
+Both require the tether_codebug firmware, which you can find in the "firmware" folder
