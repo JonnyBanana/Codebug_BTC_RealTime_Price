@@ -11,7 +11,8 @@ Both require the tether_codebug firmware:
 
 https://github.com/codebugtools/codebug_tether
 
-,which you can find in the "firmware" folder.
+which you can find in the "firmware" folder.
+
 Guide to install the tethering firmware with Codebug: 
 
 http://www.codebug.org.uk/learn/activity/66/tethering-codebug-with-python/
