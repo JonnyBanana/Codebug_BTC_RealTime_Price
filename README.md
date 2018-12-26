@@ -28,7 +28,7 @@ The codebug tether library for python is also required.
 
 <h3>Global Requirements</h3>
 
--Python3
--codebug_tether Python Module
--codebug_tether firmware
+1.Python3
+2.codebug_tether Python Module
+3.codebug_tether firmware
 
