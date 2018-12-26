@@ -23,6 +23,8 @@ In addition, the scripts are injected into the Codebug directly from the python 
 and it is therefore not possible to inject the code from the web interface. 
 The codebug tether library for python is also required.
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_BTC_RealTime_Price/master/img/pimoroni-codebug-200-large.jpg)
+
 <h3>Global Requirements</h3>
 
 -Python3</BR>
