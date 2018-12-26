@@ -13,11 +13,7 @@ https://github.com/codebugtools/codebug_tether
 
 which you can find in the "firmware" folder.
 
-Guide to install the tethering firmware with Codebug: 
-
-http://www.codebug.org.uk/learn/activity/66/tethering-codebug-with-python/
-
-Guide Codebug Tether: 
+Codebug Tether Guide: 
 
 https://codebug-tether.readthedocs.io/en/latest/
 
@@ -30,6 +26,26 @@ The codebug tether library for python is also required.
 <h3>Global Requirements</h3>
 
 -Python3</BR>
--codebug_tether Python Module</BR>
+-codebug_tether python module</BR>
 -codebug_tether firmware</BR>
 
+
+<h4>How to Install Requirements</h4>
+
+<h5>codebug_tether firmware</h5>
+
+Guide Here: http://www.codebug.org.uk/learn/activity/66/tethering-codebug-with-python/
+
+<h5>codebug_tether python module</h5>
+
+<h6>Windows</h6>
+
+  pip install codebug_tether
+
+<h6>Linux</h6>
+
+sudo pip3 install codebug_tether
+
+<h6>Mac OS</h6>
+
+I do not give a fuck!
