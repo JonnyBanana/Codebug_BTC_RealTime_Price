@@ -2,7 +2,7 @@
 
 
 A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V2 and v2)  </BR>
-to display the price of Bitcoins in real time on the codebug led display
+to display the price of Bitcoins in real time on the codebug led display. The price is in dollars.
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/cb.jpg) 
 
