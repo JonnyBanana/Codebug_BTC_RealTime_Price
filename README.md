@@ -21,7 +21,7 @@ Guide Codebug Tether:
 
 https://codebug-tether.readthedocs.io/en/latest/
 
-Have also a pdf in the "doc" folder.\12
+Have also a pdf in the "doc" folder.
 
 In addition, the scripts are injected into the Codebug directly from the python shell </BR>
 and it is therefore not possible to inject the code from the web interface. 
